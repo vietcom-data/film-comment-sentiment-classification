@@ -266,6 +266,8 @@ vô lý
 vo ly
 vô lí
 vo li
+phi lí
+phi lý
 sạn
 thảm họa
 tham hoa
@@ -376,3 +378,7 @@ unsubcribe
 unsub
 chảnh chó
 sinh bệnh
+luyên thuyên
+overrate
+overrated
+khó nuốt
