@@ -2,6 +2,7 @@ chán
 tức giận
 xấu
 lừa dối
+lừa đảo
 lừa
 tệ nhất
 bẩn thỉu
@@ -61,7 +62,7 @@ nặng nề
 vô vọng
 gian lận
 xuống cấp
-có ác cảm
+ác cảm
 tàn nhẫn
 mù quáng
 bất thường
@@ -118,7 +119,6 @@ khủng khiếp
 1star
 2star
 ngắn
-ác
 tổn thất
 nặng nề
 xót xa
@@ -369,6 +369,7 @@ xạo
 đau đầu
 seeding
 seeder
+seder
 seed
 lố
 lố lăng
@@ -382,3 +383,8 @@ luyên thuyên
 overrate
 overrated
 khó nuốt
+mất mặt
+lỏng lẻo
+lộn xộn
+sượng
+sượn

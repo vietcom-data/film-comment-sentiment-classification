@@ -3,6 +3,7 @@
 ô kê
 ok
 ổn
+ổn áp
 xinh
 chúc mừng
 hạnh phúc
@@ -11,7 +12,6 @@ khen
 ổn định
 cảm ơn
 cám ơn
-ổn
 chuẩn
 hoàn thiện
 chắc chắn
@@ -239,7 +239,6 @@ tự hào
 sướng
 chuyên nghiệp
 kinh điển
-ngưỡng mộ
 khoái
 chất
 kiệt tác
@@ -255,3 +254,26 @@ bình dị
 chất phát
 công phu
 gay cấn
+trơn tru
+hài hước
+chỉn chu
+chỉnh chu
+tuyệt mỹ
+nhanh nhẹn
+chân thật
+ngời ngợi
+ngời ngợi
+ghiền
+nghiện
+trau chuốt
+mạch lạc
+tiến bộ
+tình nghĩa
+ngầu
+vui vẻ
+bát gạo
+kịch tính
+thỏa mãn
+mỹ mãn
+mãn nhãn
+dí dỏm
